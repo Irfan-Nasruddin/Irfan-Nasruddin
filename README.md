@@ -12,3 +12,11 @@ A few things about me:
 - 📫 How to reach me: **Extend your arm**
 - 😄 Pronouns: **The-cool-guy**
 - ⚡ Fun fact: **I'm not actually that cool** 
+
+Here's a happy turtle: 
+
+<p align="center">
+  <img src="https://media.giphy.com/media/1qB3EwE3c54A/giphy.gif" alt="animated" caption="Twerking turtle"/>
+</p>
+
+
