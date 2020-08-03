@@ -1,5 +1,7 @@
 ## Hello There 👋
 
+>I am a software engineering student of the University of Malaya and an enthusiastic student of Computer Science, Mathematic and Physic. My interest in the field of Computer Science is leaning towards blockchain, game development and mathematical simulation
+
 A few things about me: 
 
 - 🔭 I’m currently working on **Improving Meself**
