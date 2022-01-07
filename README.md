@@ -3,7 +3,6 @@
 A few things about me: 
 
 - 🔭 I’m currently working on my **Software Engineering Degree**
-- 👯 I’m looking to collaborate on **Blockchain Development**
 
 ### Languages:
 <p>
