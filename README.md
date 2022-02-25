@@ -11,13 +11,16 @@ A few things about me:
   <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
   <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
   <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+  <img alt="PHP" src="https://img.shields.io/badge/php-777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
 </p>
 
-### Platforms:
+### Microsoft Software Development Platforms:
 <p>
-  <img alt="SharePoint" src="https://img.shields.io/badge/microsoftsharepoint-%0078D400.svg?&style=for-the-badge&logo=sharepoint&logoColor=white"/>
+  <img alt="Microsoft SharePoint" src="https://img.shields.io/badge/sharepoint-%407855.svg?&style=for-the-badge&logo=microsoftsharepoint&logoColor=white"/>
+  <img alt="Microsoft Power Automate" src="https://img.shields.io/badge/power automate-blue.svg?&style=for-the-badge&logo=powerautomate&logoColor=white"/>
+  <img alt="Microswoft PowerApps" src="https://img.shields.io/badge/powerapps-blueviolet.svg?&style=for-the-badge&logo=powerapps&logoColor=white"/>
 </p>
-
+  
 ### Frameworks:
 <p>
   <img alt="Django" src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/>
