@@ -15,7 +15,7 @@ A few things about me:
 
 ### Platforms:
 <p>
-  <img alt="SharePoint" src="https://img.shields.io/badge/sharepoint-%23ED8B00.svg?&style=for-the-badge&logo=sharepoint&logoColor=white"/>
+  <img alt="SharePoint" src="https://img.shields.io/badge/microsoftsharepoint-%0078D400.svg?&style=for-the-badge&logo=sharepoint&logoColor=white"/>
 </p>
 
 ### Frameworks:
