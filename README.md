@@ -1,9 +1,10 @@
-## Hello There 👋
-
+## Introduction
+### Hello There 👋
 A few things about me: 
 
 - 🔭 I’m currently working on my **Software Engineering Degree**
 
+## Skills and Experiences
 ### Languages:
 <p>
   <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
