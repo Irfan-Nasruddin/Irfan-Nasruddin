@@ -9,15 +9,15 @@ A few things about me:
 
 My interest include:
 
-- Coding
-- Reading non-fictional books
-- Playing games
-- Watching animes
-- Reading mangas
-- Exploring parks
-- Talking to strangers
-- Creating embedded systems
-- Watching movies
+- 💻 Coding
+- 📚 Reading non-fictional books
+- 🎮 Playing games
+- ⛩️ Watching animes
+- 🦸‍♂️ Reading mangas
+- 🏞️ Exploring parks
+- 🗨️ Talking to strangers
+- 💾 Creating embedded systems
+- 🎥 Watching movies
 
 ## Skills and Experiences
 ### Languages:
@@ -29,7 +29,7 @@ My interest include:
   <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
   <img alt="PHP" src="https://img.shields.io/badge/php-777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
   <img alt="C" src="https://img.shields.io/badge/c-4536ee.svg?&style=for-the-badge&logo=c&logoColor=white"/>
-  <img alt="Shell Script" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+  <img alt="Shell Script" src="https://img.shields.io/badge/shell_script-%26191311.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
   <img alt="Dart" src="https://img.shields.io/badge/dart-a0a446.svg?&style=for-the-badge&logo=dart&logoColor=white"/>
 </p>
 
