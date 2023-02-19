@@ -50,5 +50,5 @@ My interest include:
 </p>
 
 ## Contact Information
-### Feel free to contact me through the following channels:
+### Contact Channels:
 <a href="mailto:muhammadirfannasruddin@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
