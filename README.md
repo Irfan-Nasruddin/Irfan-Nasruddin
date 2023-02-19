@@ -6,7 +6,7 @@ A few things about me:
 - ✨ I'm naturally inclined towards new things
 - 😬 I'm a bit of an awkward guy but once we're past that point, I think I'm a pretty good friend
 - 🎞️ I love watching movies. They were a big part of my childhood
-- ☕ Bro I don't even love coffee. I mean I'm okay with them but they're just coffee. What's with programmer's and their love for coffees
+- ☕ Bro I don't even love coffee. I mean I'm okay with them but they're just coffee. What's with programmers and their love for coffees
 
 My interest include:
 
@@ -51,3 +51,4 @@ My interest include:
 
 ## Contact Information
 ### Feel free to contact me through the following channels:
+<a href="mailto:muhammadirfannasruddin@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
