@@ -5,7 +5,8 @@ A few things about me:
 - 👨‍🎓 I studied Software Engineering at the University of Malaya
 - ✨ I'm naturally inclined towards new things
 - 😬 I'm a bit of an awkward guy but once we're past that point, I think I'm a pretty good friend
-- 🎥 I love watching movies. They were a big part of my childhood
+- 🎞️ I love watching movies. They were a big part of my childhood
+- ☕ Bro I don't even love coffee. I mean I'm okay with them but they're just coffee. What's with programmer's and their love for coffees
 
 My interest include:
 
@@ -47,3 +48,6 @@ My interest include:
   <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img alt="Flutter" src="https://img.shields.io/badge/flutter%20-%43963D7C.svg?&style=for-the-badge&logo=flutter&logoColor=white"/>
 </p>
+
+## Contact Information
+### Feel free to contact me through the following channels:
