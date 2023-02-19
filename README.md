@@ -2,7 +2,22 @@
 ### Hello There 👋
 A few things about me: 
 
-- 🔭 I’m currently working towards becoming a **Computer Wizard**
+- 👨‍🎓 I studied Software Engineering at the University of Malaya
+- ✨ I'm naturally inclined towards new things
+- 😬 I'm a bit of an awkward guy but once we're past that point, I think I'm a pretty good friend
+- 🎥 I love watching movies. They were a big part of my childhood
+
+My interest include:
+
+- Coding
+- Reading non-fictional books
+- Playing games
+- Watching animes
+- Reading mangas
+- Exploring parks
+- Talking to strangers
+- Creating embedded systems
+- Watching movies
 
 ## Skills and Experiences
 ### Languages:
