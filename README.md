@@ -50,6 +50,9 @@ My interest include:
   <img alt="Spring Boot" src="https://img.shields.io/badge/spring boot-blueviolet.svg?&style=for-the-badge&logo=spring&logoColor=white"/>
 </p>
 
+### Web Stacks:
+- WAMP (Windows, Apache, MySQL, PHP)
+
 ## Contact Information
 ### Contact Channels 📞:
 <a href="mailto:muhammadirfannasruddin@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
