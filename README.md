@@ -50,6 +50,11 @@ My interest include:
   <img alt="Spring Boot" src="https://img.shields.io/badge/spring boot-blueviolet.svg?&style=for-the-badge&logo=spring&logoColor=white"/>
 </p>
 
+### Technologies:
+<p>
+  <img alt="Firebase" src="https://img.shields.io/badge/firebase-%43963D7C.svg?&style=for-the-badge&logo=firebase&logoColor=white"/>
+</p>
+
 ### Web Stacks:
 - WAMP (Windows, Apache, MySQL, PHP)
 
