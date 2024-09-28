@@ -1,4 +1,4 @@
-[![Ghibli Pond](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/12cbe8a4-f55c-4b40-85bb-d8e1405e7b84/debee0l-eca2c69e-8c11-421b-905e-29841ab8bbf7.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzEyY2JlOGE0LWY1NWMtNGI0MC04NWJiLWQ4ZTE0MDVlN2I4NFwvZGViZWUwbC1lY2EyYzY5ZS04YzExLTQyMWItOTA1ZS0yOTg0MWFiOGJiZjcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.bLss-D_4-kWiv5xyurUsivfJHkl5ukWbqaUpjMD-PyQ)]()
+![Ghibli Pond](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/12cbe8a4-f55c-4b40-85bb-d8e1405e7b84/debee0l-eca2c69e-8c11-421b-905e-29841ab8bbf7.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzEyY2JlOGE0LWY1NWMtNGI0MC04NWJiLWQ4ZTE0MDVlN2I4NFwvZGViZWUwbC1lY2EyYzY5ZS04YzExLTQyMWItOTA1ZS0yOTg0MWFiOGJiZjcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.bLss-D_4-kWiv5xyurUsivfJHkl5ukWbqaUpjMD-PyQ)
 
 ## Introduction
 A few things about me: 
@@ -20,13 +20,13 @@ My interest include:
 - 🎥 Watching movies
 
 ## Technologies
-These are the languages, frameworks, tools and technologies that I've used:
+These are the languages, frameworks, and tools that I've used:
 
 <p>
-  <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-  <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=white"/>
-  <img alt="TypeScript" src="https://img.shields.io/badge/typescript-a0a44d.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+  <img alt="Python" src="https://img.shields.io/badge/Python-%23D45B64?style=for-the-badge&logo=python&logoColor=white"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%20%23759BCC?style=for-the-badge&logo=javascript&logoColor=white"/>
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%23035C4D?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-%2375C9AA?style=for-the-badge&logo=html5&logoColor=white"/>
   <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
   <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
   <img alt="PHP" src="https://img.shields.io/badge/php-777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
