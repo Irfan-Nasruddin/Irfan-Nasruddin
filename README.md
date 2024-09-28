@@ -24,6 +24,7 @@ My interest include:
 <p>
   <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=white"/>
+  <img alt="TypeScript" src="https://img.shields.io/badge/typescript-a0a44d.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
   <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
   <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
   <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
@@ -31,6 +32,7 @@ My interest include:
   <img alt="C" src="https://img.shields.io/badge/c-4536ee.svg?&style=for-the-badge&logo=c&logoColor=white"/>
   <img alt="Shell Script" src="https://img.shields.io/badge/shell_script-%26191311.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
   <img alt="Dart" src="https://img.shields.io/badge/dart-a0a446.svg?&style=for-the-badge&logo=dart&logoColor=white"/>
+  <img alt="Kotlin" src="https://img.shields.io/badge/kotlin-a0d446.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/>
 </p>
 
 ### Microsoft Software Development Platforms:
@@ -47,11 +49,13 @@ My interest include:
   <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img alt="Flutter" src="https://img.shields.io/badge/flutter%20-%43963D7C.svg?&style=for-the-badge&logo=flutter&logoColor=white"/>
   <img alt="Spring Boot" src="https://img.shields.io/badge/spring boot-blueviolet.svg?&style=for-the-badge&logo=spring&logoColor=white"/>
+  <img alt="Angular" src="https://img.shields.io/badge/angular%20-%43963D7e.svg?&style=for-the-badge&logo=angular&logoColor=white"/>
 </p>
 
 ### Technologies:
 <p>
   <img alt="Firebase" src="https://img.shields.io/badge/firebase-%43963D7C.svg?&style=for-the-badge&logo=firebase&logoColor=white"/>
+  <img alt="AWS" src="https://img.shields.io/badge/aws-%20.svg?&style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
 </p>
 
 ### Web Stacks:
